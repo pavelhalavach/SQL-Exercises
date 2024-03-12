@@ -1,0 +1,1 @@
+CALL get_clients_by_state('CA')
